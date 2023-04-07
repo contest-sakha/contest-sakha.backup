@@ -1,0 +1,47 @@
+url: https://contest-sakha.ru/
+baseurl:
+title:
+  ru: Олимпиады по программированию в РС(Я)
+  en: Programming contests in Republic Sakha (Yakutia)
+
+languages:
+  ru: Русский
+  en: English
+
+countries:
+  russia:
+    ru: Россия
+    en: Russia
+  kazakhstan:
+    ru: Казахстан
+    en: Kazakhstan
+  romania:
+    ru: Румыния
+    en: Romania
+  china:
+    ru: Китай
+    en: China
+  singapore:
+    ru: Сингапур
+    en: Singapore
+  iran:
+    ru: Иран
+    en: Iran
+  bulgaria:
+    ru: Болгария
+    en: Bulgaria
+
+contest_nicknames:
+  tuy:
+    ru: Туймаада
+    en: Tuymaada
+  rkoshp:
+    ru: Республиканская командная олимпиада школьников по программированию
+    en: Sakha Republic School Team Programming Contest
+  vsosh:
+    ru: Всероссийская олимпиада школьников по программированию
+    en: Russian Olympiad in Informatics
+
+collections:
+  - contests
+  - participants
