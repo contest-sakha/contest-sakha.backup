@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: 1px;
+}
+
+td.center {
+    text-align: center;
+}
+
+td.right {
+    text-align: right;
+}
+
+a:link, a:visited {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}

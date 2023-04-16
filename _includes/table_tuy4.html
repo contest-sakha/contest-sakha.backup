@@ -1,5 +1,5 @@
 
-<table class="table table-bordered">
+<table>
     <thead>
       <tr>
         <th rowspan="2">
@@ -43,16 +43,16 @@
       <tr>
         <td>{{ res.participant[include.lang] }}</td>
         <td>{{ res.country[include.lang] }}</td>
-        <td>{{ res.problems1[0] }}</td>
-        <td>{{ res.problems1[1] }}</td>
-        <td>{{ res.problems1[2] }}</td>
-        <td>{{ res.problems1[3] }}</td>
-        <td>{{ res.problems2[0] }}</td>
-        <td>{{ res.problems2[1] }}</td>
-        <td>{{ res.problems2[2] }}</td>
-        <td>{{ res.problems2[3] }}</td>
-        <td>{{ res.problems1[0] | plus: res.problems1[1] | plus: res.problems1[2] | plus: res.problems1[3] | plus: res.problems2[0] | plus: res.problems2[1] | plus: res.problems2[2] | plus: res.problems2[3] }}</td>
-        <td>{{ res.place }}</td>
+        <td class="right">{{ res.problems1[0] }}</td>
+        <td class="right">{{ res.problems1[1] }}</td>
+        <td class="right">{{ res.problems1[2] }}</td>
+        <td class="right">{{ res.problems1[3] }}</td>
+        <td class="right">{{ res.problems2[0] }}</td>
+        <td class="right">{{ res.problems2[1] }}</td>
+        <td class="right">{{ res.problems2[2] }}</td>
+        <td class="right">{{ res.problems2[3] }}</td>
+        <td class="center">{{ res.problems1[0] | plus: res.problems1[1] | plus: res.problems1[2] | plus: res.problems1[3] | plus: res.problems2[0] | plus: res.problems2[1] | plus: res.problems2[2] | plus: res.problems2[3] }}</td>
+        <td class="center">{{ res.place }}</td>
       </tr>
       {%- endfor %}
     </tbody>
