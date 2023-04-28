@@ -23,6 +23,7 @@ title: Лаврентьевские чтения 2023
         <th>F</th>
         <th>Всего</th>
         <th>Место</th>
+        <th>Диплом</th>
         </tr>
     </thead>
     <tbody>
@@ -39,6 +40,7 @@ title: Лаврентьевские чтения 2023
         <td class="right">{{ res.problems[5] }}</td>
         <td class="center">{{ res.total }}</td>
         <td class="center">{{ res.place }}</td>
+        <td class="center">{{ res.award }}</td>
         </tr>
         {%- endfor %}
     </tbody>
@@ -61,6 +63,7 @@ title: Лаврентьевские чтения 2023
         <th>F</th>
         <th>Всего</th>
         <th>Место</th>
+        <th>Диплом</th>
         </tr>
     </thead>
     <tbody>
@@ -76,6 +79,7 @@ title: Лаврентьевские чтения 2023
         <td class="right">{{ res.problems[5] }}</td>
         <td class="center">{{ res.total }}</td>
         <td class="center">{{ res.place }}</td>
+        <td class="center">{{ res.award }}</td>
         </tr>
         {%- endfor %}
     </tbody>

@@ -13,6 +13,8 @@ results:
       - 100
     total: 600
     place: 1
+    award: Диплом 1-й степени и серебряная медаль за первое место
+
   - surname: Никифоров
     name: Дьулустан
     patronymic: Васильевич
@@ -27,6 +29,8 @@ results:
       - 98
     total: 538
     place: 2
+    award: Диплом 2-й степени
+
   - surname: Макаров
     name: Мирон
     patronymic: Егорович
@@ -41,6 +45,8 @@ results:
       - 100
     total: 520
     place: 3
+    award: Диплом 3-й степени
+
   - surname: Дмитриев
     name: Николай
     patronymic: Николаевич
@@ -55,6 +61,8 @@ results:
       - 100
     total: 510
     place: 4
+    award: Похвальная грамота
+
   - surname: Шумилов
     name: Арсен
     patronymic: Кириллович
@@ -69,6 +77,8 @@ results:
       - 84
     total: 484
     place: 5
+    award: Похвальная грамота
+
   - surname: Попов
     name: Данил
     patronymic: Дмитриевич
@@ -83,6 +93,8 @@ results:
       - 40
     total: 420
     place: 6
+    award: Похвальная грамота
+
   - surname: Павловский
     name: Владислав
     patronymic: Витальевич
@@ -97,6 +109,8 @@ results:
       - 100
     total: 410
     place: 7
+    award: Похвальная грамота
+
   - surname: Обудов
     name: Владислав
     patronymic: Антонович
@@ -111,6 +125,9 @@ results:
       - 100
     total: 395
     place: 8
+    award:
+    award: Похвальная грамота
+
   - surname: Шамаев
     name: Баатылы
     patronymic: Эллэй-уола
@@ -125,6 +142,8 @@ results:
       - 100
     total: 390
     place: 9
+    award:
+
   - surname: Семенов
     name: Артём
     patronymic: Герасимович
@@ -139,6 +158,8 @@ results:
       - 100
     total: 330
     place: 10
+    award:
+
   - surname: Христофоров
     name: Виталий
     patronymic: Николаевич
@@ -153,6 +174,8 @@ results:
       - 94
     total: 289
     place: 11
+    award:
+
   - surname: Ульянов
     name: Никита
     patronymic: Дмитриевич
@@ -167,6 +190,8 @@ results:
       - 98
     total: 268
     place: 12
+    award:
+
   - surname: Миндаев
     name: Дамир
     patronymic: Александрович
@@ -181,6 +206,8 @@ results:
       - 48
     total: 248
     place: 13
+    award:
+
   - surname: Гаврильев
     name: Федор
     patronymic: Афанасьевич
@@ -195,6 +222,8 @@ results:
       - 
     total: 240
     place: 14
+    award:
+
   - surname: Платонова
     name: Светлана
     patronymic: Сергеевна
@@ -209,6 +238,8 @@ results:
       - 84
     total: 214
     place: 15
+    award:
+
   - surname: Дьячковский
     name: Дамир
     patronymic: Николаевич
@@ -223,6 +254,8 @@ results:
       - 
     total: 200
     place: 16-18
+    award:
+
   - surname: Иванов
     name: Александр
     patronymic: Прокопьевич
@@ -237,6 +270,8 @@ results:
       - 
     total: 200
     place: 16-18
+    award:
+
   - surname: Семенов
     name: Эрхан-Алексей
     patronymic: Харитонович
@@ -251,6 +286,8 @@ results:
       - 
     total: 200
     place: 16-18
+    award:
+
   - surname: Охлопкова
     name: Санаайа
     patronymic: Альбертовна
@@ -265,6 +302,8 @@ results:
       - 
     total: 190
     place: 19
+    award:
+
   - surname: Им
     name: Артур
     patronymic: Николаевич
@@ -279,6 +318,8 @@ results:
       - 18
     total: 188
     place: 20
+    award:
+
   - surname: Захаров
     name: Ньургун
     patronymic: Николаевич
@@ -293,6 +334,8 @@ results:
       - 
     total: 180
     place: 21-23
+    award:
+
   - surname: Иванов
     name: Гаврил
     patronymic: Сергеевич
@@ -307,6 +350,8 @@ results:
       - 
     total: 180
     place: 21-23
+    award:
+
   - surname: Ховров
     name: Дмитрий
     patronymic: Евгеньевич
@@ -321,6 +366,8 @@ results:
       - 
     total: 180
     place: 21-23
+    award:
+
   - surname: Куличкина
     name: Инна
     patronymic: Владимировна
@@ -335,6 +382,8 @@ results:
       - 
     total: 170
     place: 24
+    award:
+
   - surname: Верховцев
     name: Семен
     patronymic: Дмитриевич
@@ -349,6 +398,8 @@ results:
       - 
     total: 130
     place: 25
+    award:
+
   - surname: Ефремов
     name: Сандал
     patronymic: Владиславович
@@ -363,6 +414,8 @@ results:
       - 
     total: 100
     place: 26-28
+    award:
+
   - surname: Кугасов
     name: Афанасий
     patronymic: Артурович
@@ -377,6 +430,8 @@ results:
       - 
     total: 100
     place: 26-28
+    award:
+
   - surname: Сутаков
     name: Николай
     patronymic: Еремеевич
@@ -391,6 +446,8 @@ results:
       - 
     total: 100
     place: 26-28
+    award:
+
   - surname: Архипов
     name: Тимур
     patronymic: Яковлевич
@@ -405,6 +462,8 @@ results:
       - 
     total: 0
     place: 29-31
+    award:
+
   - surname: Макаров
     name: Захар
     patronymic: Николаевич
@@ -419,6 +478,8 @@ results:
       - 
     total: 0
     place: 29-31
+    award:
+
   - surname: Мыреев
     name: Марк
     patronymic: Сергеевич
@@ -433,3 +494,4 @@ results:
       - 
     total: 0
     place: 29-31
+    award:

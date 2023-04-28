@@ -1,4 +1,5 @@
 results:
+
   - name: ПСД
     comment: Аспиранты СВФУ ИМИ
     problems:
@@ -10,6 +11,8 @@ results:
       - 198
     total: 1268
     place: 1
+    award: Диплом 1 степени
+
   - name: МБА
     comment: Школьники РЛИ (10 класс)
     problems:
@@ -21,6 +24,8 @@ results:
       - 300
     total: 1240
     place: 2
+    award: Диплом 2 степени
+
   - name: Продам Гараж
     comment: Школьники РЛИ и ФТЛ (11 класс)
     problems:
@@ -32,6 +37,8 @@ results:
       - 232
     total: 1142
     place: 3
+    award: Диплом 3 степени
+
   - name: ОЯШИ
     comment: Школьники РЛИ (11 класс)
     problems:
@@ -43,6 +50,8 @@ results:
       - 134
     total: 909
     place: 4
+    award:
+
   - name: Кохэдло
     comment: Студенты СВФУ ИМИ (ФИИТ-20)
     problems:
@@ -54,6 +63,8 @@ results:
       - 100
     total: 815
     place: 5
+    award:
+
   - name: Работает и точка
     comment: СВФУ ИМИ (ФИИТ-19) и ИТИ (ПГС-21-2)
     problems:
@@ -65,6 +76,8 @@ results:
       - 0
     total: 570
     place: 7
+    award:
+
   - name: 501
     comment: Студенты СВФУ ИМИ (ИВТ-20 и ПМИ-21)
     problems:
@@ -76,3 +89,4 @@ results:
       - 98
     total: 368
     place: 8
+    award:
