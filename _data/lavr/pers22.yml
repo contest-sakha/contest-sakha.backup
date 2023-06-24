@@ -1,769 +1,833 @@
 results:
-  - surname: Парников
-    name: Василий
-    patronymic: Васильевич
+
+  - name: Парников Василий Васильевич
     team: YC TYMCYY
     status: 11 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 100
-      - 100
-      - 100
-      - 100
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 100
     total: 500
-  - surname: Ефимов
-    name: Степан
-    patronymic: Сергеевич
+    place: 1
+    award:
+
+  - name: Ефимов Степан Сергеевич
     team: Продам гараж
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 100
-      - 100
-      - 75
-      - 68
+      A: 100
+      B: 100
+      C: 100
+      D: 75
+      E: 68
     total: 443
-  - surname: Данилов
-    name: Прокопий
-    patronymic: Карлович
+    place: 2
+    award:
+
+  - name: Данилов Прокопий Карлович
     team: ВТ
     status: М-ВТ-20, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 100
-      - 100
-      - 100
+      A: 100
+      B: 0
+      C: 100
+      D: 100
+      E: 100
     total: 400
-  - surname: Кривошапкин
-    name: Эдуард
-    patronymic: Алексеевич
+    place: 3
+    award:
+
+  - name: Кривошапкин Эдуард Алексеевич
     team: ФТЛ
     status: 8 класс, Физико-технический лицей им. В.П. Ларионова
     problems:
-      - 100
-      - 0
-      - 100
-      - 100
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 100
+      E: 0
     total: 300
-  - surname: Никифоров
-    name: Дьулустан
-    patronymic: Васильевич
+    place: 4-6
+    award:
+
+  - name: Никифоров Дьулустан Васильевич
     team: Валера, Никита, Дьулус
     status: Кафедра ИТ, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 100
-      - 100
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 100
+      E: 0
     total: 300
-  - surname: Семенов
-    name: Никита
-    patronymic: Сергеевич
+    place: 4-6
+    award:
+
+  - name: Семенов Никита Сергеевич
     team: Валера, Никита, Дьулус
     status: Студент ФКН ВШЭ
     problems:
-      - 100
-      - 0
-      - 0
-      - 100
-      - 100
+      A: 100
+      B: 0
+      C: 0
+      D: 100
+      E: 100
     total: 300
-  - surname: Обудов
-    name: Владислав
-    patronymic: Антонович
+    place: 4-6
+    award:
+
+  - name: Обудов Владислав Антонович
     team: Stepbrothers
     status: ФИИТ-20, ИМИ СВФУ
     problems:
-      - 100
-      - 20
-      - 100
-      - 70
-      - 0
+      A: 100
+      B: 20
+      C: 100
+      D: 70
+      E: 0
     total: 290
-  - surname: Семёнов
-    name: Ефим
-    patronymic: Николаевич
+    place: 7
+    award:
+
+  - name: Семёнов Ефим Николаевич
     team: Наше одеяло
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 100
-      - 75
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 75
+      E: 0
     total: 275
-  - surname: Колодезников
-    name: Влад
-    patronymic: Юрьевич
+    place: 8
+    award:
+
+  - name: Колодезников Влад Юрьевич
     team: Продам гараж
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 100
-      - 55
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 55
+      E: 0
     total: 255
-  - surname: Семёнов Эрхан
-    name: Алексей
-    patronymic: Харитонович
+    place: 9
+    award:
+
+  - surname: ёнов Эрхан Алексей Харитонович
     team: Лапша быстрого приготовления
     status: ИВТ-21-1, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 100
-      - 40
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 40
+      E: 0
     total: 240
-  - surname: Ховров
-    name: Дмитрий
-    patronymic: Евгеньевич
+    place: 10
+    award:
+
+  - name: Ховров Дмитрий Евгеньевич
     team: Noterday
     status: ФИИТ-19, ИМИ СВФУ
     problems:
-      - 100
-      - 20
-      - 100
-      - 10
-      - 4
+      A: 100
+      B: 20
+      C: 100
+      D: 10
+      E: 4
     total: 234
-  - surname: Саввин
-    name: Антон
-    patronymic: Васильевич
+    place: 11
+    award:
+
+  - name: Саввин Антон Васильевич
     team: ПМ-17
     status: М-ВТ-21, ИМИ СВФУ
     problems:
-      - 94
-      - 20
-      - 40
-      - 60
-      - 0
+      A: 94
+      B: 20
+      C: 40
+      D: 60
+      E: 0
     total: 214
-  - surname: Гаврильев
-    name: Валерий
-    patronymic: Валерьевич
+    place: 12
+    award:
+
+  - name: Гаврильев Валерий Валерьевич
     team: Валера, Никита, Дьулус
     status: Разработчик Яндекс Карты
     problems:
-      - 100
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 200
-  - surname: Гуринов
-    name: Айтал
-    patronymic: Иванови
+    place: 13-16
+    award:
+
+  - name: Гуринов Айтал Иванови
     team: ПМ-17
     status: М-ВТ-21, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 200
-  - surname: Иванова
-    name: Милана
-    patronymic: Яновна
+    place: 13-16
+    award:
+
+  - name: Иванова Милана Яновна
     team: Noterday
     status: ФИИТ-19, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 200
-  - surname: Чичигинаров
-    name: Василий
-    patronymic: Константинович
+    place: 13-16
+    award:
+
+  - name: Чичигинаров Василий Константинович
     team: Наше одеяло
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 200
-  - surname: Ермаков
-    name: Сергей
-    patronymic: Николаевич
+    place: 13-16
+    award:
+
+  - name: Ермаков Сергей Николаевич
     team: ИСА
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 94
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 94
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 194
-  - surname: Романов
-    name: Уйгун
-    patronymic: Андреевич
+    place: 17-18
+    award:
+
+  - name: Романов Уйгун Андреевич
     team: True force
     status: ИВТ-20-2, ИМИ СВФУ
     problems:
-      - 94
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 94
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 194
-  - surname: Алексеев
-    name: Станислав
-    patronymic: Капитонович
+    place: 17-18
+    award:
+
+  - name: Алексеев Станислав Капитонович
     team: ПМ-17
     status: М-НОД-21, ИМИ СВФУ
     problems:
-      - 100
-      - 20
-      - 40
-      - 25
-      - 0
+      A: 100
+      B: 20
+      C: 40
+      D: 25
+      E: 0
     total: 185
-  - surname: Дмитриев
-    name: Аркадий
-    patronymic: Валериевич
+    place: 19-20
+    award:
+
+  - name: Дмитриев Аркадий Валериевич
     team: Цукен
     status: 11 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 85
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 85
+      E: 0
     total: 185
-  - surname: Местников
-    name: Марат
-    patronymic: Павлович
+    place: 19-20
+    award:
+
+  - name: Местников Марат Павлович
     team: ФТЛ
     status: 9 класс, Физико-технический лицей им. В.П. Ларионова
     problems:
-      - 100
-      - 0
-      - 40
-      - 10
-      - 0
+      A: 100
+      B: 0
+      C: 40
+      D: 10
+      E: 0
     total: 150
-  - surname: Николаева
-    name: Мария
-    patronymic: Карловна
+    place: 21-22
+    award:
+
+  - name: Николаева Мария Карловна
     team: ГКГ
     status: 11 класс, Городская классическая гимназия
     problems:
-      - 100
-      - 0
-      - 40
-      - 10
-      - 0
+      A: 100
+      B: 0
+      C: 40
+      D: 10
+      E: 0
     total: 150
-  - surname: Андросов
-    name: Максим
-    patronymic: Семенович
+    place: 21-22
+    award:
+
+  - name: Андросов Максим Семенович
     team: Stepbrothers
     status: ФИИТ-20, ИМИ СВФУ
     problems:
-      - 100
-      - 40
-      - 0
-      - 0
-      - 0
+      A: 100
+      B: 40
+      C: 0
+      D: 0
+      E: 0
     total: 140
-  - surname: Семенов
-    name: Артем
-    patronymic: Герасимович
+    place: 23-24
+    award:
+
+  - name: Семенов Артем Герасимович
     team: Семнашка
     status: 9 класс, СОШ №17
     problems:
-      - 100
-      - 0
-      - 0
-      - 40
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 40
+      E: 0
     total: 140
-  - surname: Дьячковский
-    name: Альберт
-    patronymic: Федорович
+    place: 23-24
+    award:
+
+  - name: Дьячковский Альберт Федорович
     team: Айыы Кыьата
     status: 11 класс, Национальная гимназия "Айыы Кыьата"
     problems:
-      - 100
-      - 20
-      - 0
-      - 10
-      - 0
+      A: 100
+      B: 20
+      C: 0
+      D: 10
+      E: 0
     total: 130
-  - surname: Платонова
-    name: Светлана
-    patronymic: Сергеевна
+    place: 25
+    award:
+
+  - name: Платонова Светлана Сергеевна
     team: Вчерашние
     status: ИВТ-20-2, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 0
-      - 0
-      - 28
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 28
     total: 128
-  - surname: Курчатов
-    name: Артемий
-    patronymic: Николаевич
+    place: 26
+    award:
+
+  - name: Курчатов Артемий Николаевич
     team: Семнашка
     status: 10 класс, СОШ №17
     problems:
-      - 100
-      - 0
-      - 0
-      - 25
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 25
+      E: 0
     total: 125
-  - surname: Оконешникова
-    name: Таисия
-    patronymic: Васильевна
+    place: 27
+    award:
+
+  - name: Оконешникова Таисия Васильевна
     team: Айыы Кыьата
     status: 9 класс, Национальная гимназия "Айыы Кыьата"
     problems:
-      - 91
-      - 0
-      - 0
-      - 25
-      - 0
+      A: 91
+      B: 0
+      C: 0
+      D: 25
+      E: 0
     total: 116
-  - surname: Акимов
-    name: Мир
-    patronymic: Мирович
+    place: 28
+    award:
+
+  - name: Акимов Мир Мирович
     team: Цукен
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 10
-      - 4
+      A: 100
+      B: 0
+      C: 0
+      D: 10
+      E: 4
     total: 114
-  - surname: Власов
-    name: Ян
-    patronymic: Андреевич
+    place: 29
+    award:
+
+  - name: Власов Ян Андреевич
     team: YC TYMCYY
     status: 11 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 10
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 10
+      E: 0
     total: 110
-  - surname: Еремисов
-    name: Айсен
-    patronymic: Евгеньевич
+    place: 30-31
+    award:
+
+  - name: Еремисов Айсен Евгеньевич
     team: Que pro
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 10
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 10
+      E: 0
     total: 110
-  - surname: Харлампьев
-    name: Ренат
-    patronymic: Игоревич
+    place: 30-31
+    award:
+
+  - name: Харлампьев Ренат Игоревич
     team: Наше одеяло
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 94
-      - 0
-      - 0
-      - 10
-      - 4
+      A: 94
+      B: 0
+      C: 0
+      D: 10
+      E: 4
     total: 108
-  - surname: Сивцева
-    name: Анна
-    patronymic: Борисовна
+    place: 32
+    award:
+
+  - name: Сивцева Анна Борисовна
     team: Холодные люди
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 5
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 5
+      E: 0
     total: 105
-  - surname: Фролова
-    name: Ксения
-    patronymic: Георгиевна
+    place: 33
+    award:
+
+  - name: Фролова Ксения Георгиевна
     team: Цукен
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 27
-      - 20
-      - 0
-      - 55
-      - 0
+      A: 27
+      B: 20
+      C: 0
+      D: 55
+      E: 0
     total: 102
-  - surname: Дмитриева
-    name: Александра
-    patronymic: Степановна
+    place: 34
+    award:
+
+  - name: Дмитриева Александра Степановна
     team: ФТЛ
     status: 8 класс, Физико-технический лицей им. В.П. Ларионова
     problems:
-      - 100
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 100
-  - surname: Иванов
-    name: Виктор
-    patronymic: Алдарович
+    place: 35-39
+    award:
+
+  - name: Иванов Виктор Алдарович
     team: True force
     status: ИВТ-20-2, ИМИ СВФУ
     problems:
-      - 0
-      - 0
-      - 100
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 100
+      D: 0
+      E: 0
     total: 100
-  - surname: Миндаев
-    name: Дамир
-    patronymic: Александрович
+    place: 35-39
+    award:
+
+  - name: Миндаев Дамир Александрович
     team: Продам гараж
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 100
-  - surname: Решетников
-    name: Ньургун
-    patronymic: Петрович
+    place: 35-39
+    award:
+
+  - name: Решетников Ньургун Петрович
     team: РЛИ-8
     status: 8 класс, Республиканский лицей-интернат
     problems:
-      - 100
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 100
-  - surname: Чомчоев
-    name: Андрей
-    patronymic: Игнатьевич
+    place: 35-39
+    award:
+
+  - name: Чомчоев Андрей Игнатьевич
     team: Вчерашние
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 100
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 100
-  - surname: Саввинов
-    name: Олег
-    patronymic: Сергеевич
+    place: 35-39
+    award:
+
+  - name: Саввинов Олег Сергеевич
     team: YC TYMCYY
     status: 11 класс, Республиканский лицей-интернат
     problems:
-      - 97
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 97
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 97
-  - surname: Казак
-    name: Иван
-    patronymic: Николаевич
+    place: 40
+    award:
+
+  - name: Казак Иван Николаевич
     team: ИСА
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 94
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 94
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 94
-  - surname: Ядрихинский
-    name: Христофор
-    patronymic: Васильевич
+    place: 41-42
+    award:
+
+  - name: Ядрихинский Христофор Васильевич
     team: Черепаха
     status: Аспирант, ИМИ СВФУ
     problems:
-      - 94
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 94
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 94
-  - surname: Гаврильев
-    name: Федор
-    patronymic: Афанасьевич
+    place: 41-42
+    award:
+
+  - name: Гаврильев Федор Афанасьевич
     team: Stepbrothers
     status: ФИИТ-20, ИМИ СВФУ
     problems:
-      - 0
-      - 20
-      - 0
-      - 55
-      - 0
+      A: 0
+      B: 20
+      C: 0
+      D: 55
+      E: 0
     total: 75
-  - surname: Ксенофонтов
-    name: Эдгард
-    patronymic: Эрнстович
+    place: 43
+    award:
+
+  - name: Ксенофонтов Эдгард Эрнстович
     team: Прикольные ребята
     status: ИВТ-20-1, ИМИ СВФУ
     problems:
-      - 21
-      - 0
-      - 0
-      - 10
-      - 0
+      A: 21
+      B: 0
+      C: 0
+      D: 10
+      E: 0
     total: 31
-  - surname: Николаев
-    name: Василий
-    patronymic: Иннокентьевич
+    place: 44
+    award:
+
+  - name: Николаев Василий Иннокентьевич
     team: Холодные люди
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 30
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 30
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 30
-  - surname: Егорова
-    name: Диана
-    patronymic: Владимировна
+    place: 45
+    award:
+
+  - name: Егорова Диана Владимировна
     team: Noterday
     status: ФАРМ-18, МИ СВФУ
     problems:
-      - 24
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 24
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 24
-  - surname: Ипполитов
-    name: Евгений
-    patronymic: Евгеньевич
+    place: 46-47
+    award:
+
+  - name: Ипполитов Евгений Евгеньевич
     team: True force
     status: ИВТ-20-2, ИМИ СВФУ
     problems:
-      - 24
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 24
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 24
-  - surname: Андреев
-    name: Арсен
-    patronymic: Михайлович
+    place: 46-47
+    award:
+
+  - name: Андреев Арсен Михайлович
     team: Que pro
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 21
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 21
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 21
-  - surname: Горохов
-    name: Владимир
-    patronymic: Октавианович
+    place: 48-51
+    award:
+
+  - name: Горохов Владимир Октавианович
     team: Вчерашние
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 21
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 21
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 21
-  - surname: Кириллина
-    name: Сардаана
-    patronymic: Викторовна
+    place: 48-51
+    award:
+
+  - name: Кириллина Сардаана Викторовна
     team: РЛИ-8
     status: 8 класс, Республиканский лицей-интернат
     problems:
-      - 21
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 21
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 21
-  - surname: Федорова
-    name: Сайаана
-    patronymic: Сергеевна
+    place: 48-51
+    award:
+
+  - name: Федорова Сайаана Сергеевна
     team: Холодные люди
     status: 10 класс, Республиканский лицей-интернат
     problems:
-      - 21
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 21
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 21
-  - surname: Ефимов
-    name: Алексей
-    patronymic: Aлексеевич
+    place: 48-51
+    award:
+
+  - name: Ефимов Алексей Aлексеевич
     team: Прикольные ребята
     status: ИВТ-20-1, ИМИ СВФУ
     problems:
-      - 18
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 18
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 18
-  - surname: Миндаев
-    name: Эльдар
-    patronymic: Александрович
+    place: 52
+    award:
+
+  - name: Миндаев Эльдар Александрович
     team: РЛИ-8
     status: 8 класс, Республиканский лицей-интернат
     problems:
-      - 15
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 15
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 15
-  - surname: Васильев
-    name: Максим
-    patronymic: Яковлевич
+    place: 53
+    award:
+
+  - name: Васильев Максим Яковлевич
     team: Черепаха
     status: 9 класс, СОШ №26
     problems:
-      - 9
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 9
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 9
-  - surname: Слепцова
-    name: Айыына
-    patronymic: Афанасьевна
+    place: 54-56
+    award:
+
+  - name: Слепцова Айыына Афанасьевна
     team: ИСА
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 9
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 9
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 9
-  - surname: Торговкин
-    name: Андрей
-    patronymic: Викторович
+    place: 54-56
+    award:
+
+  - name: Торговкин Андрей Викторович
     team: Лапша быстрого приготовления
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 9
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 9
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 9
-  - surname: Никифоров
-    name: Арсен
-    patronymic: Германович
+    place: 54-56
+    award:
+
+  - name: Никифоров Арсен Германович
     team: Anarchy Council
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 6
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 6
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 6
-  - surname: Былгаева
-    name: Марина
-    patronymic: Афанасьевна
+    place: 57
+    award:
+
+  - name: Былгаева Марина Афанасьевна
     team: ГКГ
     status: 10 класс, Городская классическая гимназия
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Данилова
-    name: Любовь
-    patronymic: Михайловна
+    place: 58-64
+    award:
+
+  - name: Данилова Любовь Михайловна
     team: Прикольные ребята
     status: ИВТ-20-1, ИМИ СВФУ
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Иванов
-    name: Максим
-    patronymic: Максимович
+    place: 58-64
+    award:
+
+  - name: Иванов Максим Максимович
     team: Айыы Кыьата
     status: 11 класс, Национальная гимназия "Айыы Кыьата"
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Малышев
-    name: Владислав
-    patronymic: Егорович
+    place: 58-64
+    award:
+
+  - name: Малышев Владислав Егорович
     team: Лапша быстрого приготовления
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Слепцов
-    name: Антон
-    patronymic: Афанасьевич
+    place: 58-64
+    award:
+
+  - name: Слепцов Антон Афанасьевич
     team: Anarchy Council
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Солопов
-    name: Мирон
-    patronymic: Дмитриевич
+    place: 58-64
+    award:
+
+  - name: Солопов Мирон Дмитриевич
     team: Семнашка
     status: 11 класс, СОШ №17
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
-  - surname: Сутаков
-    name: Никита
-    patronymic: Игоревич
+    place: 58-64
+    award:
+
+  - name: Сутаков Никита Игоревич
     team: Anarchy Council
     status: ФИИТ-21, ИМИ СВФУ
     problems:
-      - 0
-      - 0
-      - 0
-      - 0
-      - 0
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
     total: 0
+    place: 58-64
+    award:

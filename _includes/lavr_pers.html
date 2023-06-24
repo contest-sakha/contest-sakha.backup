@@ -1,0 +1,32 @@
+<div style="overflow-x: auto">
+    <table>
+    <thead>
+        <tr>
+        <th>Участник</th>
+        <th>Команда</th>
+        <th>Статус</th>
+        {% for p in include.problems -%}
+        <th>{{ p }}</th>
+        {%- endfor %}
+        <th>Всего</th>
+        <th>Место</th>
+        <th>Диплом</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for res in include.results -%}
+        <tr>
+        <td>{{ res.name }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.status }}</td>
+        {% for p in include.problems -%}
+        <td class="right">{{ res.problems[p] }}</td>
+        {%- endfor %}
+        <td class="center">{{ res.total }}</td>
+        <td class="center">{{ res.place }}</td>
+        <td class="center">{{ res.award }}</td>
+        </tr>
+        {%- endfor %}
+    </tbody>
+    </table>
+</div>

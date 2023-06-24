@@ -1,497 +1,437 @@
 results:
-  - surname: Данилов
-    name: Прокопий
-    patronymic: Карлович
+
+  - name: Данилов Прокопий Карлович
     team: ПСД
     status: аспирант СВФУ ИМИ
     problems:
-      - 100
-      - 100
-      - 100
-      - 100
-      - 100
-      - 100
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 100
+      F: 100
     total: 600
     place: 1
     award: Диплом 1-й степени и серебряная медаль за первое место
 
-  - surname: Никифоров
-    name: Дьулустан
-    patronymic: Васильевич
+  - name: Никифоров Дьулустан Васильевич
+    link: nikiforov
     team: ПСД
     status: аспирант ИМИ СВФУ, преп-ль каф. ИТ
     problems:
-      - 100
-      - 100
-      - 40
-      - 100
-      - 100
-      - 98
+      A: 100
+      B: 100
+      C: 40
+      D: 100
+      E: 100
+      F: 98
     total: 538
     place: 2
     award: Диплом 2-й степени
 
-  - surname: Макаров
-    name: Мирон
-    patronymic: Егорович
+  - name: Макаров Мирон Егорович
     team: МБА
     status: школьник РЛИ (10 класс)
     problems:
-      - 100
-      - 100
-      - 20
-      - 100
-      - 100
-      - 100
+      A: 100
+      B: 100
+      C: 20
+      D: 100
+      E: 100
+      F: 100
     total: 520
     place: 3
     award: Диплом 3-й степени
 
-  - surname: Дмитриев
-    name: Николай
-    patronymic: Николаевич
+  - name: Дмитриев Николай Николаевич
     team: ДимКо
     status: студент СВФУ ИМИ (ПМИ-21)
     problems:
-      - 100
-      - 100
-      - 10
-      - 100
-      - 100
-      - 100
+      A: 100
+      B: 100
+      C: 10
+      D: 100
+      E: 100
+      F: 100
     total: 510
     place: 4
     award: Похвальная грамота
 
-  - surname: Шумилов
-    name: Арсен
-    patronymic: Кириллович
+  - name: Шумилов Арсен Кириллович
     team: Продам Гараж
     status: школьник  РЛИ (11 класс)
     problems:
-      - 100
-      - 100
-      - 0
-      - 100
-      - 100
-      - 84
+      A: 100
+      B: 100
+      C: 0
+      D: 100
+      E: 100
+      F: 84
     total: 484
     place: 5
     award: Похвальная грамота
 
-  - surname: Попов
-    name: Данил
-    patronymic: Дмитриевич
+  - name: Попов Данил Дмитриевич
     team: ОЯШИ
     status: школьник  РЛИ (11 класс)
     problems:
-      - 100
-      - 100
-      - 
-      - 100
-      - 80
-      - 40
+      A: 100
+      B: 100
+      C: 
+      D: 100
+      E: 80
+      F: 40
     total: 420
     place: 6
     award: Похвальная грамота
 
-  - surname: Павловский
-    name: Владислав
-    patronymic: Витальевич
+  - name: Павловский Владислав Витальевич
     team: Продам Гараж
     status: школьник  ФТЛ (11 класс)
     problems:
-      - 100
-      - 100
-      - 
-      - 50
-      - 60
-      - 100
+      A: 100
+      B: 100
+      C: 
+      D: 50
+      E: 60
+      F: 100
     total: 410
     place: 7
     award: Похвальная грамота
 
-  - surname: Обудов
-    name: Владислав
-    patronymic: Антонович
+  - name: Обудов Владислав Антонович
     team: Кохэдло
     status: студент  СВФУ ИМИ (ФИИТ-20)
     problems:
-      - 100
-      - 100
-      - 5
-      - 
-      - 90
-      - 100
+      A: 100
+      B: 100
+      C: 5
+      D: 
+      E: 90
+      F: 100
     total: 395
     place: 8
     award:
     award: Похвальная грамота
 
-  - surname: Шамаев
-    name: Баатылы
-    patronymic: Эллэй-уола
+  - name: Шамаев Баатылы Эллэй-уола
     team: МБА
     status: школьник РЛИ (10 класс)
     problems:
-      - 100
-      - 100
-      - 
-      - 
-      - 90
-      - 100
+      A: 100
+      B: 100
+      C: 
+      D: 
+      E: 90
+      F: 100
     total: 390
     place: 9
     award:
 
-  - surname: Семенов
-    name: Артём
-    patronymic: Герасимович
+  - name: Семенов Артём Герасимович
     team: МБА
     status: школьник РЛИ (10 класс)
     problems:
-      - 100
-      - 30
-      - 
-      - 10
-      - 90
-      - 100
+      A: 100
+      B: 30
+      C: 
+      D: 10
+      E: 90
+      F: 100
     total: 330
     place: 10
     award:
 
-  - surname: Христофоров
-    name: Виталий
-    patronymic: Николаевич
+  - name: Христофоров Виталий Николаевич
     team: ОЯШИ
     status: школьник РЛИ (11 класс)
     problems:
-      - 100
-      - 30
-      - 5
-      - 0
-      - 60
-      - 94
+      A: 100
+      B: 30
+      C: 5
+      D: 0
+      E: 60
+      F: 94
     total: 289
     place: 11
     award:
 
-  - surname: Ульянов
-    name: Никита
-    patronymic: Дмитриевич
+  - name: Ульянов Никита Дмитриевич
     team: 501
     status: студент СВФУ ИМИ (ИВТ-20-2)
     problems:
-      - 100
-      - 0
-      - 
-      - 
-      - 70
-      - 98
+      A: 100
+      B: 0
+      C: 
+      D: 
+      E: 70
+      F: 98
     total: 268
     place: 12
     award:
 
-  - surname: Миндаев
-    name: Дамир
-    patronymic: Александрович
+  - name: Миндаев Дамир Александрович
     team: Продам Гараж
     status: школьник РЛИ (11 класс)
     problems:
-      - 100
-      - 30
-      - 20
-      - 
-      - 50
-      - 48
+      A: 100
+      B: 30
+      C: 20
+      D: 
+      E: 50
+      F: 48
     total: 248
     place: 13
     award:
 
-  - surname: Гаврильев
-    name: Федор
-    patronymic: Афанасьевич
+  - name: Гаврильев Федор Афанасьевич
     team: Кохэдло
     status: студент СВФУ ИМИ (ФИИТ-20)
     problems:
-      - 100
-      - 0
-      - 
-      - 50
-      - 90
-      - 
+      A: 100
+      B: 0
+      C: 
+      D: 50
+      E: 90
+      F: 
     total: 240
     place: 14
     award:
 
-  - surname: Платонова
-    name: Светлана
-    patronymic: Сергеевна
+  - name: Платонова Светлана Сергеевна
     team: —
     status: студент СВФУ ИМИ (ИВТ-20-2)
     problems:
-      - 100
-      - 30
-      - 
-      - 
-      - 
-      - 84
+      A: 100
+      B: 30
+      C: 
+      D: 
+      E: 
+      F: 84
     total: 214
     place: 15
     award:
 
-  - surname: Дьячковский
-    name: Дамир
-    patronymic: Николаевич
+  - name: Дьячковский Дамир Николаевич
     team: ОЯШИ
     status: школьник РЛИ (11 класс)
     problems:
-      - 100
-      - 30
-      - 0
-      - 0
-      - 70
-      - 
+      A: 100
+      B: 30
+      C: 0
+      D: 0
+      E: 70
+      F: 
     total: 200
     place: 16-18
     award:
 
-  - surname: Иванов
-    name: Александр
-    patronymic: Прокопьевич
+  - name: Иванов Александр Прокопьевич
     team: Работает и точка
     status: студент СВФУ ИТИ (ПГС-21-2)
     problems:
-      - 100
-      - 30
-      - 
-      - 
-      - 70
-      - 
+      A: 100
+      B: 30
+      C: 
+      D: 
+      E: 70
+      F: 
     total: 200
     place: 16-18
     award:
 
-  - surname: Семенов
-    name: Эрхан-Алексей
-    patronymic: Харитонович
+  - name: Семенов Эрхан-Алексей Харитонович
     team: ДимКо
     status: студент СВФУ ИМИ (ПМИ-21)
     problems:
-      - 100
-      - 30
-      - 
-      - 
-      - 70
-      - 
+      A: 100
+      B: 30
+      C: 
+      D: 
+      E: 70
+      F: 
     total: 200
     place: 16-18
     award:
 
-  - surname: Охлопкова
-    name: Санаайа
-    patronymic: Альбертовна
+  - name: Охлопкова Санаайа Альбертовна
     team: Работает и точка
     status: студент СВФУ ИМИ (ФИИТ-19)
     problems:
-      - 100
-      - 30
-      - 
-      - 
-      - 60
-      - 
+      A: 100
+      B: 30
+      C: 
+      D: 
+      E: 60
+      F: 
     total: 190
     place: 19
     award:
 
-  - surname: Им
-    name: Артур
-    patronymic: Николаевич
+  - name: Им Артур Николаевич
     team: ИНЖ
     status: студент СВФУ ИМИ (ИВТ-22-2)
     problems:
-      - 100
-      - 0
-      - 
-      - 
-      - 70
-      - 18
+      A: 100
+      B: 0
+      C: 
+      D: 
+      E: 70
+      F: 18
     total: 188
     place: 20
     award:
 
-  - surname: Захаров
-    name: Ньургун
-    patronymic: Николаевич
+  - name: Захаров Ньургун Николаевич
     team: Нубики Дьулустана 2.0
     status: студент СВФУ ИМИ (ИВТ-21-2)
     problems:
-      - 100
-      - 30
-      - 
-      - 
-      - 50
-      - 
+      A: 100
+      B: 30
+      C: 
+      D: 
+      E: 50
+      F: 
     total: 180
     place: 21-23
     award:
 
-  - surname: Иванов
-    name: Гаврил
-    patronymic: Сергеевич
+  - name: Иванов Гаврил Сергеевич
     team: Кохэдло
     status: студент СВФУ ИМИ (ФИИТ-20)
     problems:
-      - 100
-      - 
-      - 
-      - 
-      - 80
-      - 
+      A: 100
+      B: 
+      C: 
+      D: 
+      E: 80
+      F: 
     total: 180
     place: 21-23
     award:
 
-  - surname: Ховров
-    name: Дмитрий
-    patronymic: Евгеньевич
+  - name: Ховров Дмитрий Евгеньевич
     team: Работает и точка
     status: студент СВФУ ИМИ (ФИИТ-19)
     problems:
-      - 100
-      - 0
-      - 
-      - 10
-      - 70
-      - 
+      A: 100
+      B: 0
+      C: 
+      D: 10
+      E: 70
+      F: 
     total: 180
     place: 21-23
     award:
 
-  - surname: Куличкина
-    name: Инна
-    patronymic: Владимировна
+  - name: Куличкина Инна Владимировна
     team: Нубики Дьулустана 2.0
     status: студент СВФУ ИМИ (ИВТ-21-2)
     problems:
-      - 100
-      - 
-      - 
-      - 0
-      - 70
-      - 
+      A: 100
+      B: 
+      C: 
+      D: 0
+      E: 70
+      F: 
     total: 170
     place: 24
     award:
 
-  - surname: Верховцев
-    name: Семен
-    patronymic: Дмитриевич
+  - name: Верховцев Семен Дмитриевич
     team: ПСД
     status: аспирант СВФУ ИМИ (аспирант)
     problems:
-      - 100
-      - 30
-      - 
-      - 0
-      - 
-      - 
+      A: 100
+      B: 30
+      C: 
+      D: 0
+      E: 
+      F: 
     total: 130
     place: 25
     award:
 
-  - surname: Ефремов
-    name: Сандал
-    patronymic: Владиславович
+  - name: Ефремов Сандал Владиславович
     team: 501
     status: студент СВФУ ИМИ (ПМИ-21)
     problems:
-      - 0
-      - 
-      - 
-      - 10
-      - 90
-      - 
+      A: 0
+      B: 
+      C: 
+      D: 10
+      E: 90
+      F: 
     total: 100
     place: 26-28
     award:
 
-  - surname: Кугасов
-    name: Афанасий
-    patronymic: Артурович
+  - name: Кугасов Афанасий Артурович
     team: ИНЖ
     status: студент СВФУ ИМИ (ИВТ-22-2)
     problems:
-      - 100
-      - 0
-      - 
-      - 
-      - 
-      - 
+      A: 100
+      B: 0
+      C: 
+      D: 
+      E: 
+      F: 
     total: 100
     place: 26-28
     award:
 
-  - surname: Сутаков
-    name: Николай
-    patronymic: Еремеевич
+  - name: Сутаков Николай Еремеевич
     team: —
     status: студент СВФУ ИМИ (ИВТ-22-2)
     problems:
-      - 100
-      - 0
-      - 0
-      - 
-      - 
-      - 
+      A: 100
+      B: 0
+      C: 0
+      D: 
+      E: 
+      F: 
     total: 100
     place: 26-28
     award:
 
-  - surname: Архипов
-    name: Тимур
-    patronymic: Яковлевич
+  - name: Архипов Тимур Яковлевич
     team: Timur
     status: школьник СОШ 26 (9 класс)
     problems:
-      - 0
-      - 
-      - 
-      - 
-      - 
-      - 
+      A: 0
+      B: 
+      C: 
+      D: 
+      E: 
+      F: 
     total: 0
     place: 29-31
     award:
 
-  - surname: Макаров
-    name: Захар
-    patronymic: Николаевич
+  - name: Макаров Захар Николаевич
     team: 501
     status: студент СВФУ ИМИ (ИВТ-20-2)
     problems:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
+      A: 
+      B: 
+      C: 
+      D: 
+      E: 
+      F: 
     total: 0
     place: 29-31
     award:
 
-  - surname: Мыреев
-    name: Марк
-    patronymic: Сергеевич
+  - name: Мыреев Марк Сергеевич
     team: 903
     status: студент СВФУ ИМИ (ПМИ-21)
     problems:
-      - 0
-      - 0
-      - 
-      - 
-      - 0
-      - 
+      A: 0
+      B: 0
+      C: 
+      D: 
+      E: 0
+      F: 
     total: 0
     place: 29-31
     award:
